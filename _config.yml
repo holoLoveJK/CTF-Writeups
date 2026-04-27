@@ -1,9 +1,3 @@
-#theme: jekyll-theme-minimal
-title: holoLoveJK's homepage
-description: "Capture The Flag writeups and notes"
-baseurl: ""
-url: "https://hololovejk.github.io"
-theme: minima
-paginate: 10
-plugins:
-  - jekyll-paginate
+theme: jekyll-theme-minimal
+title: Holo's homepage
+description: Bookmark this to keep an eye on my project updates!
