@@ -1,0 +1,9 @@
+title: "CTF Writeups — Your Name"
+email: your.email@example.com
+description: "Capture The Flag writeups and notes"
+baseurl: "" # leave empty for username.github.io
+url: "https://hololovejk.github.io" # replace
+theme: minima
+paginate: 10
+plugins:
+  - jekyll-paginate
